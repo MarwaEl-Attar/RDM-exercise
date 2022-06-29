@@ -1,0 +1,7 @@
+patient_id,gender,nationality,height,weight
+PAT001,Male,South African,5.8,85
+PAT002,Male,South African,6,60
+PAT003,Female,Kenyan,6.1,64.1
+PAT004,Female,Ugandan,6.3,78
+PAT005,Female,Ugandan,5.4,70
+PAT006,Male,Ugandan,6,71
